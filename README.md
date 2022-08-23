@@ -12,7 +12,7 @@ chmod 400 bioinformatics-tutorial.pem
 Log into EC2 instance:
 
 ```
-ssh -i "bioinformatics-tutorial.pem" ec2-user@ec2-52-91-4-173.compute-1.amazonaws.com
+ssh -i "bioinformatics-tutorial.pem" ec2-user@ec2-184-73-29-197.compute-1.amazonaws.com
 ```
 
 Once logged in: 
