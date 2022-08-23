@@ -25,7 +25,7 @@ fastp -i r1-sub.fastq -I r2-sub.fastq -o r1-filt-YOURNAME.fastq -O r2-filt-YOURN
 To download results, use a new terminal tab: 
 
 ```
-scp -i "bioinformatics-tutorial.pem" ec2-user@ec2-52-207-245-28.compute-1.amazonaws.com:/home/ec2-user/fastp-report-YOURNAME.html .
+scp -i "bioinformatics-tutorial.pem" ec2-user@ec2-184-73-29-197.compute-1.amazonaws.com:/home/ec2-user/fastp-report-YOURNAME.html .
 ```
 
 Open in browser
